@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Marc_Lescarbot
     - http://fr.wikipedia.org/wiki/Marc_Lescarbot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22268#Histoire-de-la-Nouvelle-France-Version-1617-
 gutenberg_bookshelf:
 - FR Histoire
 - France
